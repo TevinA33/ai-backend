@@ -1,4 +1,4 @@
-package com.aibackend.tevin_ai_backend;
+package com.aibackend.ai_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
